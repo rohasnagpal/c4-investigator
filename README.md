@@ -1,5 +1,7 @@
 # c4-investigator
 
+[Plugin repository](https://github.com/rohasnagpal/c4-investigator)
+
 `c4-investigator` is a skill-only Codex/ChatGPT plugin for guided, evidence-led cryptocurrency and cyber-enabled investigations. The first skill, `c4-fake-trading-app-investigator`, helps an authorized investigator turn text, audio transcripts, screenshots, payment records, domains, accounts, wallets, and transaction hashes into structured case state, prioritized investigative actions, c4 Lab tool recommendations, candidate Indian-law issue mapping, and review-ready complaint/FIR and investigation-report drafts.
 
 ## What v0.1 includes
