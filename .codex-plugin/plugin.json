@@ -24,6 +24,9 @@
       "Interactive",
       "Write"
     ],
+    "brandColor": "#08C7D9",
+    "composerIcon": "./assets/c4-investigator-icon.png",
+    "logo": "./assets/c4-investigator-logo.png",
     "defaultPrompt": [
       "Investigate a suspected fake trading app.",
       "Organize this case evidence and identify gaps.",
